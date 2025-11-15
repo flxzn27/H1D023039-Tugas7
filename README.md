@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # h1d023039_tugas7
 
 A new Flutter project.
@@ -14,3 +15,6 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+=======
+# H1D023039-Tugas7
+>>>>>>> 365e935ab2bb50e1ab8b74446ec53964fc74c025
