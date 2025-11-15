@@ -9,7 +9,8 @@ Proyek ini adalah aplikasi mobile sederhana yang dibangun menggunakan Flutter se
 * *Shift KRS:* C
 
 ## Video Demo
-![tugas7vid](https://github.com/user-attachments/assets/6a4bb7fe-8f50-493e-a0c5-464789a10ee7)
+https://github.com/user-attachments/assets/9bbb74f7-ae31-4682-8fe6-f0091d8d4647
+
 
 ## Fitur Utama Aplikasi
 1.Login Sesi: Memeriksa kredensial terhadap akun hardcode (shaun/sheep123) dan menyimpan sesi aktif.
